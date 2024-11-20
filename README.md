@@ -1,19 +1,18 @@
-# (UPDATE IN README.md) Project Title
+# AI4ALL Final Project: AQI Prediction Using LSTM Model
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
+## Project Overview
 
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+This project aims to predict the Air Quality Index (AQI) using time-series analysis and deep learning methodologies. Leveraging LSTM (Long Short-Term Memory) neural networks, we trained a model to forecast daily AQI based on historical data, various pollutants, and meteorological factors. This project showcases advanced data preprocessing, feature engineering, and neural network modeling within the context of predictive analytics.
 
+**Skills Applied**: Data preprocessing, feature engineering, time-series analysis, deep learning (LSTM), hyperparameter tuning, and visualization.
+
+**Program Context**: Conducted as part of AI4ALL, this project illustrates the application of AI techniques in environmental data science.
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
+With the increasing need to monitor and improve air quality for public health, accurate AQI forecasting has become essential. Predicting AQI can help individuals and governments take preventive measures against poor air quality days, potentially reducing health risks and economic impacts.
 
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+**Relevance**: This project addresses the critical issue of air pollution by providing a tool for anticipatory action. It can support policymakers, public health organizations, and the general public in making informed decisions to mitigate pollution effects.
 
 ## Key Results <!--- do not change this line -->
 
@@ -47,21 +46,17 @@ Include any relevant data sources that were used in your project.
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
-- *Python*
-- *pandas*
-- *OpenAI API*
-
+- Python
+- TensorFlow and Keras
+- Pandas and NumPy
+- scikit-learn
+- matplotlib and seaborn
+- KerasTuner
+- folium (for interactive geographic visualization)
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Uyen Nguyen ([nguyen_u1@denison.edu](mailto:nguyen_u1@denison.edu))*
+- *Neha Janardhan ([njanardhan@umass.edu](mailto:njanardhan@umass.edu))*
+- 
