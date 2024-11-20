@@ -60,7 +60,8 @@ Model: "functional_44"
 ├─────────────────────┼───────────────────┼────────────┼───────────────────┤
 │ AQI_Output (Dense)  │ (None, 1)         │         65 │ dense_12[0][0]    │
 └─────────────────────┴───────────────────┴────────────┴───────────────────┘
- Total params: 541,057 (2.06 MB)
+ Total params: 1,623,173 (6.19 MB)
  Trainable params: 541,057 (2.06 MB)
  Non-trainable params: 0 (0.00 B)
+ Optimizer params: 1,082,116 (4.13 MB)
 
