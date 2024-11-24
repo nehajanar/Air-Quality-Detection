@@ -89,4 +89,3 @@ Air pollution has significant impacts on public health, the environment, and the
 *This project was completed in collaboration with:*
 - Uyen Nguyen *([nguyen_u1@denison.edu](mailto:nguyen_u1@denison.edu))*
 - Neha Janardhan *([njanardhan@umass.edu](mailto:njanardhan@umass.edu))*
-- 
