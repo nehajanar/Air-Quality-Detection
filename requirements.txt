@@ -1,0 +1,8 @@
+numpy>=0.1
+pandas>=0.1
+seaborn>=0.1
+matplotlib>=0.1
+folium>=0.1
+sklearn>=0.1
+pickle>=0.1
+tensorflow>=0.1
