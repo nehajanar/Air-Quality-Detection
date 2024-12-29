@@ -33,8 +33,6 @@ Air pollution significantly impacts public health, the environment, and the econ
    - **Mean Absolute Error (MAE):** 8.172
    - **Mean Squared Error (MSE):** 11.675
 
----
-
 ## Methodologies
 
 ### 1. Data Collection and Preprocessing
